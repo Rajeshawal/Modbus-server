@@ -1,0 +1,8 @@
+# Core GUI library (standard with most Python installs; required for GUI)
+tk
+
+# Modbus protocol support (required for server functionality)
+pymodbus==3.3.6
+
+# Typing extensions for compatibility and type hints (optional)
+typing-extensions
