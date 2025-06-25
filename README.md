@@ -22,11 +22,11 @@ This project provides a GUI-based Modbus TCP server written in Python. It is des
 
 ## Screenshots1
 *Main application window Server Stop.*  
-![server start]("images/server start.png")
+![serverstart]("images/serverstart.png")
 
 ## Screenshots2
 *Main application window Server Started.* 
-![Surver run]("images/server run.png")
+![Surverrun]("images/serverrun.png")
 
 
 ## 🛠️ Installation
