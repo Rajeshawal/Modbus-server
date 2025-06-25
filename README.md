@@ -20,9 +20,13 @@ This project provides a GUI-based Modbus TCP server written in Python. It is des
 
 ## 📷 Screenshots
 
-- Main server control and status view.
-- Data view and editing interface.
+## Screenshots1
+*Main application window.*  
+![Screenshot1](images/screenshot1.png)
 
+## Screenshots2
+*Structured packet fields view.*  
+![Screenshot2](images/screenshot2.png)
 ---
 
 ## 🛠️ Installation
