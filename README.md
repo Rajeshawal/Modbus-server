@@ -129,6 +129,16 @@ chmod +x dist/server_GUI
 
 ---
 
+## 🔽 Download Executable
+
+- 🪟 [Download for Windows (.exe)](https://github.com/Rajeshawal/modbus-server/releases/download/v1.0.0/MobusTCP_server.exe)
+- 🐧 [Download for Linux](https://github.com/Rajeshawal/modbus-server/releases/download/v1.0.0/ModbusTCP-server)
+
+> ✅ No Python installation required. Just download, run, and connect to your Modbus server.
+
+---
+
+
 ## ⚠️ Responsible Use and Disclaimer
 
 - This tool is intended strictly for **educational and research purposes**.
