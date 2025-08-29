@@ -23,7 +23,7 @@ This project provides a GUI-based Modbus TCP server written in Python. It is des
 ## Main application window Server Stop.
 ![Screenshot1](images/serverstart.png)
 
-## ##Main application window Server Started.
+## Main application window Server Started.
 ![Screenshot2](images/serverrun.png)
 
 
